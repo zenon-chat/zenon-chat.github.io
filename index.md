@@ -6,15 +6,20 @@ title: Zenon Chat
 ## Telegram
 * [Zenon Network Community Official](https://t.me/zenonofficial)
 * [Zenon Network](https://t.me/zenonnetwork)
+* [Zenon Art & Memes](https://t.me/Zenon_Art)
+* [Zenon Plasma Bot](https://t.me/plasmapoints_bot)
+* [Zenon Testnet Faucet](https://t/me/znn_faucet_bot)
 * [Z-Hub](httpe://t.me/)
 * [Zitadel Logs](httpe://t.me/Zitadel)
 * [Bridge Support](httpe://t.me/nom_mt)
 * [OTC Trading](https://t.me/znnotc)
+* [Zenon Whale Alerts](https://t.me/zenonwhalealerts)
 * [Bridge Alerts](httpe://t.me/zenon_bridge_alerts)
 * [Pillar Tracker](https://t.me/pillar_tracker)
 * [AZ Tracker](httpe://t.me/az_tracker)
 * [Trading Announcements](httpe://t.me/wZNN_wQSR)
 * [Raffle Announcements](https://t.me/zenonraffle)
+
 
 ## Discord
 * [Zenon Network](https://discord.com/invite/zenonnetwork)
