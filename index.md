@@ -5,7 +5,7 @@ title: Zenon Chat
 
 ## Telegram
 * [Zenon Network Community Official](https://t.me/zenonofficial)
-* [Zenon Network Legacy](https://t.me/zenonnetwork)
+* [Zenon Network (Legacy)](https://t.me/zenonnetwork)
 * [Zenon Art & Memes](https://t.me/Zenon_Art)
 * [Zenon Plasma Bot](https://t.me/plasmapoints_bot)
 * [Zenon Testnet Faucet](https://t/me/znn_faucet_bot)
