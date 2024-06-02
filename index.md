@@ -12,7 +12,7 @@ Don't be confused with [Zenon.org](https://ask.zenon.wiki/questions/D1V2/what-is
 * [Zenon Network (Legacy)](https://t.me/zenonnetwork)
 * [Zenon Art & Memes](https://t.me/Zenon_Art)
 * [Zenon Plasma Bot](https://t.me/plasmapoints_bot)
-* [Zenon Testnet Faucet](https://t/me/znn_faucet_bot)
+* [Zenon Testnet Faucet](https://t.me/znn_faucet_bot)
 * [Z-Hub](https://t.me/)
 * [Zitadel Logs](https://t.me/Zitadel)
 * [Bridge Support](https://t.me/nom_mt)
