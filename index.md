@@ -5,7 +5,7 @@ title: Zenon Chat
 
 [Zenon Network](https://zenon.network) is a self-evolving network globally deployed to shape digital economies of scale, powered by a worldwide community of innovators. Its fundamentally disruptive protocol goes beyond the blockchain trilemma. Zenon proposes a network that is secure, scalable, and achives true decentralization.
 
-Zenon.org is a separate private organization. While they run several Pillars (validators) within the Zenon Network, their focus is on performance marketing and they use proprietary, closed-source tools.
+[Zenon.org](https://ask.zenon.wiki/questions/D1V2/what-is-the-difference-between-zenon-network-and-zenon-org/E1Y2) is a separate private organization. While they run several Pillars (validators) within the Zenon Network, their focus is on performance marketing and they use proprietary, closed-source tools.
 
 [Verify, don't trust](https://ask.zenon.wiki/questions/D1V2/what-is-the-difference-between-zenon-network-and-zenon-org/E1Y2).
 
