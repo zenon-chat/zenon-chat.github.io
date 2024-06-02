@@ -3,6 +3,10 @@ layout: default
 title: Zenon Chat
 ---
 
+[Zenon Network](https://zenon.network) is a “self evolving planetary scale super organism creating the digital ecosystem of the future. Its fundamentally disruptive protocol goes beyond the blockchain trilemma. Zenon proposes a network that is secure, scalable, and achives true decentralization.”
+
+Don't be confused with [Zenon.org](https://ask.zenon.wiki/questions/D1V2/what-is-the-difference-between-zenon-network-and-zenon-org/E1Y2). Zenon Org is a private organization that runs multiple Pillars (validators) in the Zenon Network ecosystem. Zenon Org has a self-stated focus of performance marketing and have provided closed-source proprietary tooling.
+
 ## Telegram
 * [Zenon Network Community Official](https://t.me/zenonofficial)
 * [Zenon Network (Legacy)](https://t.me/zenonnetwork)
