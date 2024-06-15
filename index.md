@@ -4,7 +4,7 @@ title: Zenon Chat
 ---
 [Zenon Network](https://zenon.network) is a self-evolving planetary-scale digital ecosystem powered by a worldwide community of contributors. Its fundamentally disruptive protocol goes beyond the blockchain trilemma. Zenon proposes a blockchain that is secure, scalable, and achieves true decentralization.
 
-[Zenon.org](https://ask.zenon.wiki/questions/D1V2/what-is-the-difference-between-zenon-network-and-zenon-org/E1Y2) is a private organization that runs several [Pillars](https://zenon.tools/pillars/ZenonORG) (validators) in the Zenon Network. Their focus is on performance marketing with proprietary tools. Zenon Network != zenon.org
+What is the difference between Zenon Network and [ZenonORG](https://ask.zenon.wiki/questions/D1V2/what-is-the-difference-between-zenon-network-and-zenon-org/E1Y2)?
 
 [Verify, don't trust](https://forum.hypercore.one/t/what-is-the-difference-between-zenon-network-and-zenon-org/467).
 
@@ -25,7 +25,6 @@ title: Zenon Chat
 * [Trading Announcements](https://t.me/wZNN_wQSR)
 * [Raffle Announcements](https://t.me/zenonraffle)
 
-
 ## Discord
 * [Zenon Network](https://discord.com/invite/zenonnetwork)
 
@@ -34,7 +33,7 @@ title: Zenon Chat
 * [Learn Zenon](https://x.com/learn_network)
 
 ## Matrix
-* [matrix.zenon.chat](https://matrix.zenon.chat)
+* [Dev Chat & Dev Ops](https://matrix.zenon.chat)
 
 ## Bitcoin Talk
 * [Zenon Network Announcement](https://bitcointalk.org/index.php?topic=5279643.msg55303681#msg55303681)
