@@ -4,9 +4,7 @@ title: Zenon Chat
 ---
 [Zenon Network](https://zenon.network) is a self-evolving planetary-scale digital ecosystem powered by a worldwide community of contributors. Its fundamentally disruptive protocol goes beyond the blockchain trilemma. Zenon proposes a blockchain that is secure, scalable, and achieves true decentralization.
 
-What is the difference between Zenon Network and [ZenonORG](https://ask.zenon.wiki/questions/D1V2/what-is-the-difference-between-zenon-network-and-zenon-org/E1Y2)?
-
-[Verify, don't trust](https://forum.hypercore.one/t/what-is-the-difference-between-zenon-network-and-zenon-org/467).
+Zenon Network == [Zenon Network](https://zenon.network) 
 
 ## Telegram
 * [Zenon Network Community Official](https://t.me/zenonofficial)
@@ -37,3 +35,18 @@ What is the difference between Zenon Network and [ZenonORG](https://ask.zenon.wi
 
 ## Bitcoin Talk
 * [Zenon Network Announcement](https://bitcointalk.org/index.php?topic=5279643.msg55303681#msg55303681)
+
+---
+
+> A riddle by its nature,
+> Must only reveal in part,
+> The truths learned at the very end,
+> In small doses from the start.
+>
+> A solver of our great riddle,
+> Must separate the truth from lies,
+> And while words can often be used to deceive,
+> Always trust in following one’s eyes.
+Source: [@crypto_publius](https://x.com/crypto_publius/status/1452886881373466626?s=61&t=F7w_h6iqnWsxIh160RzrFw)
+
+[Verify, don't trust](https://forum.hypercore.one/t/what-is-the-difference-between-zenon-network-and-zenon-org/467).
