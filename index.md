@@ -31,7 +31,7 @@ Zenon Network == [Zenon Network](https://zenon.network)
 * [Learn Zenon](https://x.com/learn_network)
 
 ## Matrix
-* [Dev Chat & Dev Ops](https://matrix.zenon.chat)
+* [Dev Chat & Dev Ops](https://matrix.zenon.chat) ([Instructions to join Matrix](https://forum.hypercore.one/t/matrix-chat-server-for-zenon-development/475))
 
 ## Bitcoin Talk
 * [Zenon Network Announcement](https://bitcointalk.org/index.php?topic=5279643.msg55303681#msg55303681)
