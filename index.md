@@ -38,15 +38,15 @@ Zenon Network == [Zenon Network](https://zenon.network)
 
 ---
 
-> A riddle by its nature,
-> Must only reveal in part,
-> The truths learned at the very end,
-> In small doses from the start.
+> A riddle by its nature,  
+> Must only reveal in part,  
+> The truths learned at the very end,  
+> In small doses from the start.  
 >
-> A solver of our great riddle,
-> Must separate the truth from lies,
-> And while words can often be used to deceive,
-> Always trust in following one’s eyes.
+> A solver of our great riddle,  
+> Must separate the truth from lies,  
+> And while words can often be used to deceive,  
+> Always trust in following one’s eyes.  
 Source: [@crypto_publius](https://x.com/crypto_publius/status/1452886881373466626?s=61&t=F7w_h6iqnWsxIh160RzrFw)
 
 [Verify, don't trust](https://forum.hypercore.one/t/what-is-the-difference-between-zenon-network-and-zenon-org/467).
