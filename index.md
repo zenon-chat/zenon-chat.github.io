@@ -46,7 +46,8 @@ Zenon Network == [Zenon Network](https://zenon.network)
 > A solver of our great riddle,  
 > Must separate the truth from lies,  
 > And while words can often be used to deceive,  
-> Always trust in following one’s eyes.  
+> Always trust in following one’s eyes.
+
 Source: [@crypto_publius](https://x.com/crypto_publius/status/1452886881373466626?s=61&t=F7w_h6iqnWsxIh160RzrFw)
 
-[Verify, don't trust](https://forum.hypercore.one/t/what-is-the-difference-between-zenon-network-and-zenon-org/467).
+[Verify, don't trust](https://ask.zenon.wiki/questions/D1V2/what-is-the-difference-between-zenon-network-and-zenon-org)
