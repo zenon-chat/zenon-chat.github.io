@@ -23,6 +23,10 @@ Zenon Network == [Zenon Network](https://zenon.network)
 * [Trading Announcements](https://t.me/wZNN_wQSR)
 * [Raffle Announcements](https://t.me/zenonraffle)
 
+## Forum
+* [Community Discussions & Marketing](https://forum.zenon.org)
+* [Community Development & Devops](https://forum.hypercore.one)
+
 ## Discord
 * [Zenon Network](https://discord.com/invite/zenonnetwork)
 
